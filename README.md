@@ -178,11 +178,11 @@ Vardhaman College of Engineering, Hyderabad, India · <i>Aug 2016 – Sept 2020<
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kalyankasha&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=kalyank232&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyankasha&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyank232&theme=tokyonight&hide_border=true">
 </p>
 
 ---
