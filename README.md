@@ -16,7 +16,7 @@ Bridging enterprise infrastructure and scalable cloud solutions across AWS, DevO
 <img src="https://img.shields.io/badge/LinkedIn-Kalyan_Kasha-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="tel:+12096270077">
+<a href="tel:+1 (412) 616-6627">
 <img src="https://img.shields.io/badge/Phone-+1_209_627_0077-gray?style=for-the-badge&logo=phone">
 </a>
 
@@ -192,7 +192,7 @@ Vardhaman College of Engineering, Hyderabad, India · <i>Aug 2016 – Sept 2020<
 <p align="center">
 
 <b>Email:</b> kalyankasha23@gmail.com<br>
-<b>Phone:</b> +1 209 627 0077<br>
+<b>Phone:</b> +1 (412) 616-6627<br>
 <b>Location:</b> California, USA<br>
 <b>LinkedIn:</b> https://www.linkedin.com/in/kalyan-k-6b8a37129/
 
