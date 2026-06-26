@@ -12,7 +12,7 @@ Bridging enterprise infrastructure and scalable cloud solutions across AWS, DevO
 <img src="https://img.shields.io/badge/Email-kalyankasha23@gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/kalyan-k-6b8a37129/)">
 <img src="https://img.shields.io/badge/LinkedIn-Kalyan_Kasha-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -194,7 +194,7 @@ Vardhaman College of Engineering, Hyderabad, India · <i>Aug 2016 – Sept 2020<
 <b>Email:</b> kalyankasha23@gmail.com<br>
 <b>Phone:</b> +1 209 627 0077<br>
 <b>Location:</b> California, USA<br>
-<b>LinkedIn:</b> https://www.linkedin.com/in/kalyankasha
+<b>LinkedIn:</b> [https://www.linkedin.com/in/kalyankasha](https://www.linkedin.com/in/kalyan-k-6b8a37129/)
 
 </p>
 
